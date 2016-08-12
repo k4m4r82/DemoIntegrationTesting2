@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SimPeg xmlns="http://tempuri.org/SimPeg.xsd">
+  
+  <Pegawai>
+    <Nik>12345</Nik>
+    <Nama>Janoe Hendarto, M.Kom</Nama>
+    <Alamat>Seturan Yogyakarta</Alamat>
+    <Kota>Yogyakarta</Kota>
+  </Pegawai>
+
+  <Pegawai>
+    <Nik>12346</Nik>
+    <Nama>Vina Zahrotun Kamila, M.Kom</Nama>
+    <Alamat>Jl. Sunan Kudus</Alamat>
+    <Kota>Semarang</Kota>
+  </Pegawai>
+
+  <Pegawai>
+    <Nik>12347</Nik>
+    <Nama>Eko Boedijanto, M.T.</Nama>
+    <Alamat>Jl Magelang Km 15</Alamat>
+    <Kota>Yogyakarta</Kota>
+  </Pegawai>
+  
+</SimPeg>
